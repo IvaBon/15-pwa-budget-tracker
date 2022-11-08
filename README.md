@@ -8,6 +8,6 @@ add functionality to an existing budget tracker application to allow for offline
 
 ## Screenshot 
 
-![screenshot of webpage](assets/_C__Users_ivanb_bootcamp_homwork_06-weather_index.html.png)
+![screenshot of webpage]()
 
 
